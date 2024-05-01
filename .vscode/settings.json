@@ -6,5 +6,6 @@
   "prettier.singleQuote": true,
   "editor.quickSuggestions": {
     "strings": "on"
-  }
+  },
+  "editor.wordWrap": "on"
 }
