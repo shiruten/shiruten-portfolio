@@ -3,5 +3,8 @@
     "javascript": "javascriptreact"
   },
   "prettier.jsxSingleQuote": true,
-  "prettier.singleQuote": true
+  "prettier.singleQuote": true,
+  "editor.quickSuggestions": {
+    "strings": "on"
+  }
 }
