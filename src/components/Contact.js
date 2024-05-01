@@ -1,8 +1,8 @@
-import React from "react";
+import React from 'react';
 
 const Contact = () => {
   return (
-    <div className="section" id="contact">
+    <div className='section' id='contact'>
       Contact
     </div>
   );
